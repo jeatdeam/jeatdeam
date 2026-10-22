@@ -35,7 +35,7 @@ Adicionales:
 -Neon
 -
 
- <img width="85" height="75" alt="pochita_pixel" src="https://github.com/user-attachments/assets/b04e64c2-2a25-4180-8e57-8e18b3ba702e" />
+ <img width="100" height="75" alt="pochita_pixel" src="https://github.com/user-attachments/assets/b04e64c2-2a25-4180-8e57-8e18b3ba702e" />
 
  
  
