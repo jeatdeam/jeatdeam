@@ -10,8 +10,33 @@ Front-end developer · Ing. de Software — UPC
 🛠️ Tecnologías
  
  
- 
- 
+
+Stack Front-end:
+-Javascript
+-React.Js
+-Typescript
+-Next.Js
+-Tailwind
+-Angular(basico)
+-CSS
+
+Stack Back-end:
+-Node.Js
+-Express.Js
+-Python
+-Apifast
+-Java(basico)
+-ORM Prisma
+
+Adicionales:
+-SQL server
+-PostreSQL
+-Supabase
+-Neon
+-
+
+ <img width="560" height="500" alt="pochita_pixel" src="https://github.com/user-attachments/assets/b04e64c2-2a25-4180-8e57-8e18b3ba702e" />
+
  
  
  
