@@ -37,13 +37,4 @@ Adicionales:
 
  <img width="100" height="75" alt="pochita_pixel" src="https://github.com/user-attachments/assets/b04e64c2-2a25-4180-8e57-8e18b3ba702e" />
 
- 
- 
- 
 
-📂 Proyectos destacados
-Proyecto	Descripción
-AndesEpps	Sitio web para Los Andes Epps, equipos de protección personal.
-Proyectos-Vercel	Proyectos front-end publicados en Vercel.
-PracticandoGrafos	Práctica de algoritmos con grafos.
-¡Gracias por pasar por aquí!
